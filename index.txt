@@ -1,2 +1,6 @@
 hello sasi  djhybvdyhre bfiuerjb 
+<<<<<<< HEAD
  jhedbuc jecheib ekihrvviv kvbeihvnem oivhek eoidc kui
+=======
+gsfgfd dfghdf hjfdjf bhnbyhgbygbnijnuhvygvvvvvvvvvvvvg
+>>>>>>> sasi
